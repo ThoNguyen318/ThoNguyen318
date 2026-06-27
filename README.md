@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Tho Nguyen! 👋
 
-<!--
-**ThoNguyen318/ThoNguyen318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a final-year Management Information Systems (MIS) student who loves working with data, numbers, and technical solutions. 
 
-Here are some ideas to get you started:
+I am passionate about turning raw data into meaningful insights and building efficient systems to solve real-world business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/tho-nguyen-thi-thanh-710ab1283/
+- **Email:** thanhtho.3182005@gmail.com
+
+*“In God we trust, all others must bring data.”* 📊
