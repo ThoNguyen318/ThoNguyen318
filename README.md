@@ -11,4 +11,3 @@ I am passionate about turning raw data into meaningful insights and building eff
 - **LinkedIn:** https://www.linkedin.com/in/tho-nguyen-thi-thanh-710ab1283/
 - **Email:** thanhtho.3182005@gmail.com
 
-*“In God we trust, all others must bring data.”* 📊
